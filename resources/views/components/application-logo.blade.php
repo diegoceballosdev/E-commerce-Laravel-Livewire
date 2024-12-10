@@ -1,0 +1,1 @@
+<img src="{{asset("images/profile.png")}}" alt="das"  {{ $attributes }}>
